@@ -12,7 +12,7 @@
   </div>
 </template>
 
-<script src='./how-it-works.js'></script>
+<script src='./how-it-works-page.js'></script>
 
 <style lang="sass" scoped>
 .embed-container
