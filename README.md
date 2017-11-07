@@ -1,5 +1,11 @@
 ## vue-boilerplate
 
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/vue-boilerplate">
+    <img alt="vue-boilerplate" src="https://i.imgur.com/3ePgVX2.gif">
+  </a>
+</p>
+
 > A pithy starter kit with router & i18n in Vue.
 
 ```
@@ -12,7 +18,7 @@
 │   ├── assets                        # assets including images and fonts
 │   │   └── images
 │   │       ├── icon.jpg
-│   ├── components                    # usable component
+│   ├── components                    # reusable component
 │   │   └── shared                    # shared component
 │   │       ├── Footer.vue
 │   │       ├── Header.vue
