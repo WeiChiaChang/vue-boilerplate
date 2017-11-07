@@ -40,16 +40,11 @@
 
 ## Build Setup
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/vue-boilerplate">
+    <img alt="vue-boilerplate-npm-setting" src="https://i.imgur.com/EywRl8X.png">
+  </a>
+</p>
 
 ## License
 MIT © [WeiChiaChang](https://github.com/WeiChiaChang)
