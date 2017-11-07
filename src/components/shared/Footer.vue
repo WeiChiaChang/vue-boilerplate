@@ -19,10 +19,7 @@
   </div>
 </template>
 
-<script>
-export default {
-}
-</script>
+<script src='./footer-component.js'></script>
 
 <style lang="sass">
 .set .prenetics 

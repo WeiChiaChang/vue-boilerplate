@@ -160,14 +160,7 @@
     </div>
 </template>
 
-<script>
-  import HeaderComponent from '../components/shared/Header.vue'
-  export default {
-    components: {
-      HeaderComponent
-    }
-  }
-</script>
+<script src='./about-page.js'></script>
 
 <style lang="sass" scoped>
 .section

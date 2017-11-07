@@ -12,10 +12,7 @@
   </div>
 </template>
 
-<script>
-export default {
-}
-</script>
+<script src='./how-it-works.js'></script>
 
 <style lang="sass" scoped>
 .embed-container
