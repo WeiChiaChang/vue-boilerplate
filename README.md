@@ -13,6 +13,8 @@
 </p>  
 
 > A pithy starter kit with router & i18n in Vue.
+> This repo has been added [easter-eggs-collection.js](https://github.com/WeiChiaChang/easter-egg-collection) this funny script written by me,
+> if you don't like it, you can just remove it.
 
 ```
 ├── README.md                         # RTFM first
